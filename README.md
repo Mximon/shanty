@@ -19,6 +19,7 @@ Cuda is automatically installed with the requirements.
 - Update config.yaml with the keys
 - Go in root directory
 - python main.py
+- Open browser at indicated localhost server
 
 ## Architecture
 
