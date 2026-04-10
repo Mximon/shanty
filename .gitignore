@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 logs/
 transcripts/
-log/transcripts/
+logs/transcripts/
 
 *.wav
 *.mp3
