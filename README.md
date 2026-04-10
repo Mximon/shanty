@@ -2,6 +2,7 @@
 STT-LLM-TTS Pipeline for Maritime Radio Communications (English & German)
 
 ## Requirements : 
+- 2GB VRAM
 - Cuda for the Local-Remote-Local implementation
 - Python 12.x
 - Ollama for the Local-Local-Local implementation
