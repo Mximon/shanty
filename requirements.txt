@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+faster-whisper 
+openai 
+torch==2.10.0+cu126 
+torchvision==0.25.0+cu126 
+torchaudio==2.10.0+cu126  
+folium 
+gradio 
+pyaml 
+piper-tts
+jiwer

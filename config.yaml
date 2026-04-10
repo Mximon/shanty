@@ -1,0 +1,14 @@
+debug: true
+
+paths:
+  prompt: Prompts/prompt_V06.md
+  master_schema: pilot/master_schema.json
+  colreg: data/colreg.json
+
+tokens:
+  hf: HUGGING_FACE_TOKEN
+  groq: GROQ_TOKEN
+
+voices:
+  DE_karlsson: Voices/de_DE-karlsson-low.onnx
+  GB_alan: Voices/en_GB-alan-low.onnx
